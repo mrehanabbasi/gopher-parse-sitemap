@@ -6,7 +6,7 @@ This is an open source project. We appreciate your help!
 
 Please check the existing issues before.
 
-When [filing an issue](https://github.com/oxffaa/gopher-parse-sitemap/issues/new), make sure to answer these five questions:
+When [filing an issue](https://github.com/mrehanabbasi/gopher-parse-sitemap/issues/new), make sure to answer these five questions:
 
 1. What version of Go (`go version`) are you using??
 3. What code did you run?
@@ -32,4 +32,3 @@ In general, follow the ["fork-and-pull" Git workflow](https://github.com/susam/g
 Consult [GitHub Help] for more information on using pull requests.
 
 [GitHub Help]: https://help.github.com/articles/about-pull-requests/
-
